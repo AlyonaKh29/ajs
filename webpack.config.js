@@ -7,7 +7,6 @@ module.exports = {
     path: path.resolve(__dirname, 'dist'),
     library: 'ajs', 
     libraryTarget: 'umd',
-    libraryExport: 'default',
     globalObject: 'this', 
   },
   mode: 'production', 
