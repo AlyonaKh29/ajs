@@ -5,4 +5,4 @@ function info() {
   return m;
 }
 
-module.exports = { info };
+module.exports = info;
